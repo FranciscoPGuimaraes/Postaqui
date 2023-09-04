@@ -1,0 +1,23 @@
+.formInput {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    align-items: start;
+}
+
+.formInput label {
+    margin-bottom: 2px;
+    font-weight: bold;
+}
+
+.formInput input {
+    width: 200px;
+    height: 25px;
+    padding: 5px;
+    border: none;
+}
+
+.formInput input::placeholder {
+    color: #7b7b7b;
+}
+

@@ -1,0 +1,20 @@
+.info{
+    width: 250px;
+    height: 120px;
+    background-color: #2D9CDB;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    line-height: 1px;
+    border-radius: 10px;
+}
+
+.info p {
+    font-size: 10pt;
+}
+
+a{
+    color: black;
+    font-style: normal;
+    text-decoration: none;
+}
